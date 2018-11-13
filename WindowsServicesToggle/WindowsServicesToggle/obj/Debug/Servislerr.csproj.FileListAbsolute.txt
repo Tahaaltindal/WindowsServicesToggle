@@ -1,0 +1,27 @@
+c:\users\tahaaltindal\documents\visual studio 2012\Projects\Servislerr\Servislerr\bin\Debug\Servislerr.exe.config
+c:\users\tahaaltindal\documents\visual studio 2012\Projects\Servislerr\Servislerr\bin\Debug\Servislerr.exe
+c:\users\tahaaltindal\documents\visual studio 2012\Projects\Servislerr\Servislerr\bin\Debug\Servislerr.pdb
+c:\users\tahaaltindal\documents\visual studio 2012\Projects\Servislerr\Servislerr\obj\Debug\Servislerr.Form1.resources
+c:\users\tahaaltindal\documents\visual studio 2012\Projects\Servislerr\Servislerr\obj\Debug\Servislerr.Properties.Resources.resources
+c:\users\tahaaltindal\documents\visual studio 2012\Projects\Servislerr\Servislerr\obj\Debug\Servislerr.csproj.GenerateResource.Cache
+c:\users\tahaaltindal\documents\visual studio 2012\Projects\Servislerr\Servislerr\obj\Debug\Servislerr.exe
+c:\users\tahaaltindal\documents\visual studio 2012\Projects\Servislerr\Servislerr\obj\Debug\Servislerr.pdb
+C:\Users\Tahaaltindal\Documents\Visual Studio 2012\Projects\Servislerr\Servislerr\obj\Debug\Servislerr.csprojResolveAssemblyReference.cache
+D:\Servislerr\Servislerr\bin\Debug\Servislerr.exe.config
+D:\Servislerr\Servislerr\obj\Debug\Servislerr.exe
+D:\Servislerr\Servislerr\obj\Debug\Servislerr.pdb
+D:\Servislerr\Servislerr\bin\Debug\Servislerr.exe
+D:\Servislerr\Servislerr\bin\Debug\Servislerr.pdb
+D:\Servislerr\Servislerr\obj\Debug\Servislerr.csprojResolveAssemblyReference.cache
+D:\Servislerr\Servislerr\obj\Debug\Servislerr.Form1.resources
+D:\Servislerr\Servislerr\obj\Debug\Servislerr.Properties.Resources.resources
+D:\Servislerr\Servislerr\obj\Debug\Servislerr.csproj.GenerateResource.Cache
+D:\Servislerrr\Servislerr\bin\Debug\Servislerr.exe.config
+D:\Servislerrr\Servislerr\obj\Debug\Servislerr.exe
+D:\Servislerrr\Servislerr\obj\Debug\Servislerr.pdb
+D:\Servislerrr\Servislerr\bin\Debug\Servislerr.exe
+D:\Servislerrr\Servislerr\bin\Debug\Servislerr.pdb
+D:\Servislerrr\Servislerr\obj\Debug\Servislerr.csprojResolveAssemblyReference.cache
+D:\Servislerrr\Servislerr\obj\Debug\Servislerr.Form1.resources
+D:\Servislerrr\Servislerr\obj\Debug\Servislerr.Properties.Resources.resources
+D:\Servislerrr\Servislerr\obj\Debug\Servislerr.csproj.GenerateResource.Cache
